@@ -1,0 +1,12 @@
+.videoPreview {
+  display: block;
+  background-color: darkgrey;
+}
+
+.canvasElem {
+  display: block;
+  visibility: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
